@@ -8,8 +8,6 @@ This repository contains **sample manual test cases** created for the following 
 
 These test cases are designed to validate key user functionalities and ensure smooth user experiences across each platform.
 
----
-
 ## 📋 Test Coverage
 
 The test cases cover core QA scenarios, including but not limited to:
@@ -20,10 +18,6 @@ The test cases cover core QA scenarios, including but not limited to:
 - 🕹️ Bidding Flow (Bidnwin)
 - ⚙️ User Profile & Settings
 - ❌ Input Validation & Error Handling
-
----
-
-## 📁 Repository Structure
 
 ## 📁 Repository Structure
 manual-test-cases/
